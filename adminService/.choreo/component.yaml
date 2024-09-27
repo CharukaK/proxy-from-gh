@@ -2,3 +2,5 @@ schemaVersion: 0.9
 proxy:
   type: REST
   schemaFilePath: swagger.yaml
+  thumbnailPath: ""
+  docPath: ""
