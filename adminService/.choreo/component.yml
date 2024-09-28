@@ -1,0 +1,6 @@
+schemaVersion: v1
+proxy:
+    type: REST
+    schemaFilePath: swagger.yaml
+    thumbnailPath: ""
+    docPath: ""
