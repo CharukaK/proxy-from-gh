@@ -1,4 +1,4 @@
-schemaVersion: v1
+schemaVersion: v1.1
 proxy:
     type: REST
     schemaFilePath: swagger.yaml
